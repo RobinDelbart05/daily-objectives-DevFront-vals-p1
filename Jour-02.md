@@ -11,8 +11,8 @@
 - [ ] Comprendre les conditions en JavaScript (https://fr.javascript.info/ifelse)
   - [x] if else
   - [x] ternaire
-- [ ] Comprendre le fonctionnement des opérateurs logiques (https://fr.javascript.info/logical-operators)
-  - [ ] `||` (OR)
-  - [ ] `&&` (AND)
-  - [ ] `!` (NOT)
-  - [ ] `??` (Coalescence des nulles)[https://fr.javascript.info/nullish-coalescing-operator]
+- [x] Comprendre le fonctionnement des opérateurs logiques (https://fr.javascript.info/logical-operators)
+  - [x] `||` (OR)
+  - [x] `&&` (AND)
+  - [x] `!` (NOT)
+  - [x] `??` (Coalescence des nulles)[https://fr.javascript.info/nullish-coalescing-operator]
