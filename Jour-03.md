@@ -18,4 +18,4 @@
 
   #### Exercices :
 
-  - [ ] Faire tous les exercices des chapitres `2.4` à `2.17`
+  - [x] Faire tous les exercices des chapitres `2.4` à `2.17`
