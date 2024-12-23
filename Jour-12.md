@@ -10,12 +10,12 @@
     - [x] append
     - [x] prepend
     - [x] before
-      - [ ] beforeBegin
-      - [ ] beforeEnd
-    - [ ] after
-      - [ ] afterBegin
-      - [ ] afterEnd
-    - [ ] replaceWith
+      - [x] beforeBegin
+      - [x] beforeEnd
+    - [x] after
+      - [x] afterBegin
+      - [x] afterEnd
+    - [x] replaceWith
   - [ ] Savoir supprimer un nœud.
   - [ ] Savoir cloner un nœud.
   - [ ] Comprendre `documentFragment`.
