@@ -6,10 +6,10 @@
 
 - [x] Savoir modifier le document (https://javascript.info/modifying-document) :
   - [x] Savoir créer un élément HTML dans le document.
-  - [ ] Savoir insérer un élément dans le document :
-    - [ ] append
-    - [ ] prepend
-    - [ ] before
+  - [x] Savoir insérer un élément dans le document :
+    - [x] append
+    - [x] prepend
+    - [x] before
       - [ ] beforeBegin
       - [ ] beforeEnd
     - [ ] after
