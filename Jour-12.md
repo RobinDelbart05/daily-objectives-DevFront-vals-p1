@@ -18,5 +18,5 @@
     - [x] replaceWith
   - [x] Savoir supprimer un nœud.
   - [x] Savoir cloner un nœud.
-  - [ ] Comprendre `documentFragment`.
-  - [ ] Connaitre `document.write`, pourquoi il faut faire attention lors de son utilisation et ses spécificités.
+  - [x] Comprendre `documentFragment`.
+  - [x] Connaitre `document.write`, pourquoi il faut faire attention lors de son utilisation et ses spécificités.
