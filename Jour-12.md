@@ -16,7 +16,7 @@
       - [x] afterBegin
       - [x] afterEnd
     - [x] replaceWith
-  - [ ] Savoir supprimer un nœud.
-  - [ ] Savoir cloner un nœud.
+  - [x] Savoir supprimer un nœud.
+  - [x] Savoir cloner un nœud.
   - [ ] Comprendre `documentFragment`.
   - [ ] Connaitre `document.write`, pourquoi il faut faire attention lors de son utilisation et ses spécificités.
