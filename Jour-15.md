@@ -12,10 +12,10 @@
   - [x] Comprendre ce qu'est le constructeur (`constructor`)
   - [x] Attributs / Propriétés.
   - [x] Méthodes.
-    - [ ] Quelle différence avec les fonctions ?
-    - [ ] Utilité ?
-    - [ ] Getters / Setters.
-  - [ ] Comprendre ce qu'est le constructeur.
+    - [x] Quelle différence avec les fonctions ?
+    - [x] Utilité ?
+    - [x] Getters / Setters.
+  - [x] Comprendre ce qu'est le constructeur.
 - [ ] Comprendre ce qu'est un objet.
 - [ ] Comprendre le principe d'encapsulation :
   - [ ] Qu'est ce que l'encapsulation ?
