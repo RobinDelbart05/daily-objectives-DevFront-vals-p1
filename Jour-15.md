@@ -16,10 +16,10 @@
     - [x] Utilité ?
     - [x] Getters / Setters.
   - [x] Comprendre ce qu'est le constructeur.
-- [ ] Comprendre ce qu'est un objet.
-- [ ] Comprendre le principe d'encapsulation :
-  - [ ] Qu'est ce que l'encapsulation ?
-  - [ ] À quoi sert l'encapsulation ?
-  - [ ] Quels sont les différents mot-clés réservés pour l'encapsulation ?
-  - [ ] Comprendre le principe de "scope" (portée en français)
-  - [ ] Pourquoi c'est un principe fondamental de la POO.
+- [x] Comprendre ce qu'est un objet.
+- [x] Comprendre le principe d'encapsulation :
+  - [x] Qu'est ce que l'encapsulation ?
+  - [x] À quoi sert l'encapsulation ?
+  - [x] Quels sont les différents mot-clés réservés pour l'encapsulation ?
+  - [x] Comprendre le principe de "scope" (portée en français)
+  - [x] Pourquoi c'est un principe fondamental de la POO.
