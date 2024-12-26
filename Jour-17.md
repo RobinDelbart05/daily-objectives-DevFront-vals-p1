@@ -4,7 +4,7 @@
 
 ### Node :
 
-- [ ] Installation de NodeJS
+- [x] Installation de NodeJS
 - [ ] Quelle est la différence entre Node et NPM
 - [ ] Découverte de "NPM", "Yarn" et "PNPM"
   - [ ] Comprendre les différences entre les package managers et en choisir un.
