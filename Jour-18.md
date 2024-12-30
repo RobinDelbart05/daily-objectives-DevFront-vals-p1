@@ -7,12 +7,12 @@
 ### Découverte du Testing en JavaScript
 
 #### Tests Unitaires
-- [ ] **Comprendre ce qu'est un test unitaire :**
-  - [ ] **À quoi sert un test unitaire ?**  
+- [x] **Comprendre ce qu'est un test unitaire :**
+  - [x] **À quoi sert un test unitaire ?**  
     Vérifier qu’une fonction ou un composant fonctionne correctement de manière isolée.
-  - [ ] **Comment écrire un test unitaire en JavaScript ?**  
+  - [x] **Comment écrire un test unitaire en JavaScript ?**  
     Utiliser un framework comme Jest pour tester des fonctions JavaScript.
-  - [ ] **Quels sont les avantages des tests unitaires ?**  
+  - [x] **Quels sont les avantages des tests unitaires ?**  
     Améliorer la qualité du code, prévenir les régressions, et faciliter la maintenance.
 
 ---
