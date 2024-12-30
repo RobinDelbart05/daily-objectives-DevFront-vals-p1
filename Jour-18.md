@@ -18,12 +18,12 @@
 ---
 
 #### Frameworks de Test
-- [ ] **Explorer un framework de test :**
-  - [ ] **Qu'est-ce que Jest ?**  
+- [x] **Explorer un framework de test :**
+  - [x] **Qu'est-ce que Jest ?**  
     Un framework populaire pour écrire des tests unitaires en JavaScript.
-  - [ ] **Pourquoi utiliser Jest ?**  
+  - [x] **Pourquoi utiliser Jest ?**  
     Simple à configurer, riche en fonctionnalités (matchers, mocks, coverage).
-  - [ ] **Premiers pas avec Jest :**  
+  - [x] **Premiers pas avec Jest :**  
     Installer Jest via npm et exécuter un test de base.
 
 ---
