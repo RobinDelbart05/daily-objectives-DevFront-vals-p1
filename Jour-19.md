@@ -7,23 +7,23 @@
 ## Découverte des Tests d’Intégration en JavaScript
 
 ### Tests d’Intégration
-- [ ] **Comprendre ce qu’est un test d’intégration :**
-  - [ ] **À quoi sert un test d’intégration ?**  
+- [x] **Comprendre ce qu’est un test d’intégration :**
+  - [x] **À quoi sert un test d’intégration ?**  
     Vérifier que plusieurs modules ou composants fonctionnent ensemble comme attendu.
-  - [ ] **Quelle différence avec un test unitaire ?**  
+  - [x] **Quelle différence avec un test unitaire ?**  
     Les tests d’intégration valident l’interaction entre des parties du système, tandis que les tests unitaires se concentrent sur des fonctions isolées.
-  - [ ] **Pourquoi réaliser des tests d’intégration ?**  
+  - [x] **Pourquoi réaliser des tests d’intégration ?**  
     Identifier les problèmes liés à l’interaction entre les différents modules avant la mise en production.
 
 ---
 
 ### Frameworks pour Tests d’Intégration
-- [ ] **Explorer les outils recommandés :**
-  - [ ] **Jest et Testing Library :**  
+- [x] **Explorer les outils recommandés :**
+  - [x] **Jest et Testing Library :**  
     Simplifie les tests d’interfaces utilisateur et d’intégration.
-  - [ ] **Supertest :**  
+  - [x] **Supertest :**  
     Teste les API REST en simulant les requêtes HTTP.
-  - [ ] **Cypress (optionnel) :**  
+  - [x] **Cypress (optionnel) :**  
     Un outil tout-en-un pour les tests end-to-end et d’intégration.
 
 ---
